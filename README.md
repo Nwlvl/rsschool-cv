@@ -1,1 +1,2 @@
-https://Nwlvl.github.io/rsschool-cv/cv
+
+https://Nwlvl.github.io/rsschool-cv/
