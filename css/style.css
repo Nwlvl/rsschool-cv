@@ -43,7 +43,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-between;
   height: 100%;
-  background-image: url(https://bipbap.ru/wp-content/uploads/2017/05/1259_more1.jpg);
+  background-color: white;
 }
 .language{
   width: 100%;
